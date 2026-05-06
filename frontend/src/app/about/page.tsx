@@ -33,7 +33,7 @@ const features = [
   },
 ];
 
-const techStack = ["Next.js 14", "TypeScript", "MUI v5", "FastAPI", "PostgreSQL", "SQLAlchemy"];
+const techStack = ["Next.js 15", "TypeScript", "MUI v5", "FastAPI", "PostgreSQL", "SQLAlchemy"];
 
 export default function AboutPage() {
   return (
