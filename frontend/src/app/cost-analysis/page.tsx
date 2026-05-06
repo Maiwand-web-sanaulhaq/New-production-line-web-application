@@ -111,7 +111,7 @@ export default function CostAnalysisPage() {
               onClick={handleRun}
               disabled={!selectedId || loading}
             >
-              {loading ? <CircularProgress size={22} color="inherit" /> : "Analyse"}
+              {loading ? <CircularProgress size={22} color="inherit" /> : "Analyze"}
             </Button>
           </Grid>
         </Grid>
